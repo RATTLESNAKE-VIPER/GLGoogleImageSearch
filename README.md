@@ -1,6 +1,5 @@
 GLGoogleImageSearch
 ===================
-
 <img src="./ScreenShots/ScreenShot-01.png" />
 
 A image search for iOS using Google.
